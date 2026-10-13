@@ -146,6 +146,7 @@ Turn Detection/Endpointing determines when a user has finished speaking - a core
 | [AssemblyAI Universal-Streaming](https://www.assemblyai.com/blog/turn-detection-endpointing-voice-agent) | Intelligent endpointing with semantic analysis. Real-time streaming transcription. | 语义端点检测，实时流式 |
 | [Retell AI Turn-Taking](https://www.retellai.com/) | Enterprise-grade turn-taking management. Adaptive endpointing, handles complex noise environments. | 企业级方案，适应噪音环境 |
 | [Gradium Semantic VAD](https://gradium.ai/blog/semantic-vad) | Semantic VAD built into streaming STT. Multi-horizon end-of-turn probabilities every 80ms, tunable endpointing delay. | 语义 VAD，80ms 多时域端点预测，可调延迟 |
+| [Tazo Labs](https://tazolabs.com/) | Speech-to-decision models for voice agents: speculative tool calling, turn-taking, end-call detection. Cuts voice LLM costs by 50%. | 语音到决策模型，覆盖推测式工具调用、话轮检测、挂断检测，可将语音 LLM 成本降低 50% |
 
 ---
 
